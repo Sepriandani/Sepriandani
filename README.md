@@ -17,3 +17,11 @@ I'm currently active in contributing as an Academy Code Reviewer at <a href="htt
   <a href="https://www.arduino.cc/"><img align="left" alt="arduino" title="arduino" width="21px" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" /></a>
   <br>
   <br>
+
+### Github Statistic
+<p align="left">
+<a href="https://github.com/Sepriandani">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sepriandani&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sepriandani&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>

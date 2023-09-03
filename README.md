@@ -14,5 +14,6 @@ I'm currently active in contributing as an Academy Code Reviewer at <a href="htt
   <a href="https://tailwindcss.com/"><img align="left" alt="tailwindcss" title="tailwindcss" width="21px" src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" /></a>
   <a href="https://getbootstrap.com/"><img align="left" alt="bootstrap" title="bootstrap" width="21px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" /></a>
   <a href="https://www.tensorflow.org/"><img align="left" alt="tensorflow" title="tensorflow" width="21px" src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" /></a>
+  <a href="https://www.arduino.cc/"><img align="left" alt="arduino" title="arduino" width="21px" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" /></a>
   <br>
   <br>

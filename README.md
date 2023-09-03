@@ -1,8 +1,8 @@
 ### Hi! 👋 I'm Dani.
 
-An independent Software Engineer who loves to create and share projects about the web, machine learning, and the Internet of Things (IoT)! 
+An independent Software Engineer who loves to create and share projects about Web Development, Machine Learning, and the Internet of Things (IoT)! 
 
-I'm currently active in contributing as an Academy Code Reviewer at <a href="https://github.com/dicodingacademy">@dicodingacademy</a> to review student submissions (assignments) and collaborate with the Academy team in designing submissions (assignments).
+I'm currently active in contributing as an Academy Code Reviewer at <a href="https://github.com/dicodingacademy">@dicodingacademy</a> to review student submissions (assignments) and collaborate with the Academy team in designing submissions.
 
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>

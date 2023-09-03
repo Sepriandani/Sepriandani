@@ -1,4 +1,4 @@
-### Hi! 👋 I'm Dimas.
+### Hi! 👋 I'm Dani.
 
 An independent Software Engineer who loves to create and share projects about the web, machine learning, and the Internet of Things (IoT)! 
 
